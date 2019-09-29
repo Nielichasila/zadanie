@@ -2,7 +2,7 @@
 *, *::before, *::after {
 	box-sizing: border-box; 
 }
-h1 {
+h1, h2 {
 	text-align: center;
 	font-style: italic;
 }
