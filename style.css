@@ -1,9 +1,4 @@
-
-body {
-    margin: 0;
-    font-size: 16px;
-    line-height: 1.7;
-}
-h1 {
-	text-align: center
+/* Global */
+*, *::before, *::after {
+	box-sizing: border-box; 
 }
