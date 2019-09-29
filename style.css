@@ -2,7 +2,18 @@
 *, *::before, *::after {
 	box-sizing: border-box; 
 }
+body {
+	margin: 0;
+	font-size: 16px;
+	line-height: 1.7;
+}
 h1, h2 {
-	text-align: center;
+	text-align: left;
 	font-style: italic;
+	margin-left: 750px;
+}
+p {
+	text-align: ;
+	font-style: bold;
+	margin-left: 750px;
 }
